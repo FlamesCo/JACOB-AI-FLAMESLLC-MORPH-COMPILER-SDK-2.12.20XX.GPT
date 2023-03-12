@@ -1,7 +1,7 @@
 import openai
 
 # Set the API key
-openai.api_key =  ""
+openai.api_key = "*** "
 
 import tkinter as tk
 from tkinter import filedialog
